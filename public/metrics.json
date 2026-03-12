@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-03-13T05:23:00Z",
+  "system": {
+    "cpu_percent": 42.5,
+    "memory_used_mb": 1536,
+    "memory_total_mb": 4096,
+    "uptime_seconds": 172800
+  },
+  "requests": {
+    "total": 28450,
+    "success": 27980,
+    "errors": 470,
+    "avg_response_ms": 118
+  }
+}
